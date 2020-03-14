@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Yasin Wahid Rabby</title>
+
+
+	<link rel="stylesheet" type="text/css" href="css/superslides.css">
+	<link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-v8BU367qNbs/aIZIxuivaU55N5GPF89WBerHoGA4QTcbUjYiLQtKdrfXnqAcXyTv" crossorigin="anonymous">
+
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+
+
+    <div id="slides">
+
+	    <div class="overlay"></div>
+
+        <div class="slides-container">
+			<img src="img/slide7.jpg" alt="">
+			<img src="img/slide5.jpg" alt="">
+			<img src="img/slide6.jpg" alt="">
+			<img src="img/slide11.jpg" alt="">
+			<img src="img/slide12.jpg" alt="">
+			<img src="img/slide13.jpg" alt="">
+			<img src="img/slide14.jpg" alt="">
+			<img src="img/slide15.jpg" alt="">
+	    </div>
+
+        <div class="titleMessage">
+            <div class="heading">
+                <p class="main" > Yasin Wahid Rabby</p>
+                <p class="sub typed"></p>
+            </div>
+        </div>
+
+
+		<nav class="slides-navigation">
+		    <a href="#" class="next"></a>
+		    <a href="#" class="prev"></a>
+	    </nav>
+	
+
+	</div>
+
+
+	<nav id="navigation" class="navbar navbar-expand-lg">
+	  <a class="navbar-brand" href="#about">About</a>
+
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+
+	  <div class="collapse navbar-collapse" id="navbarNav">
+	    <ul class="navbar-nav">
+	      <li class="nav-item active">
+	        <a class="nav-link" href="#skills">Skills <span class="sr-only">(current)</span></a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#Stats">Stats</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#About">Publication</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#Contact">Contact</a>
+	      </li>
+	    </ul>
+	  </div>
+
+	</nav>
+
+	<div id="about" class="section">
+		<div class="container">
+			
+		
+			<div class="row">
+
+	            <div class="col-md-5">
+	            	<img class="aboutImage" src="img/img.jpg"> <img class="aboutImage" src="img/21.jpg"><img class="aboutImage" src="img/3.jpg">
+
+	            </div>
+
+
+	            <div class="col-md-7" >
+
+	            	
+	            	<h4>ABOUT ME</h4>
+
+		            	
+		            	<p>My research is at the intersection of physical geography, mapping and statistics. I am interested in applying machine learning, data mining and classical statistics to study hazards and vulnerability. My Ph.D. research is focused on landslide mapping and susceptibility assessment and the study area is Chittagong Hilly Areas (CHA), Bangladesh. I have prepared the landslide inventory of the study area combining Google Earth and field mapping. I have used bivariate, multivariate, machine learning, and deep learning methods to map landslide susceptibility of the study area. In this research, I am also trying to propose an efficient and plausible method of selection of non-landslide locations for regional-scale landslide susceptibility mapping. My research has been funded by the Penley-Thomas fellowship and McClure Scholarship program of University Tennessee, Knoxville. </p>
+		            	<p>Other than Ph.D. research, I have collaborated with the Ph.D. students and research fellows from Penn State University, University of Kentucky, University of Michigan and worked on social vulnerability assessment and the application of remote sensing to attain sustainable development goals.In the future, I am interested in including the time a dimension of landslides with the landslide susceptibility to prepare landslide risk map. </p>
+		            	<h4>EDUCATION</h4>
+
+		            	<p>         1. PhD                             Geography, University of Tennessee, Knoxville 
+		            		                                        (Expected 2020) 
+                                                                     
+   
+
+
+  </p>
+		            	<p>2. MS	Intercollegiate Masters in Statistics,  University of Tennessee, Knoxville (Expected Spring 2020)
+
+ </p>
+		            	
+		            	<p>3. MS	Geography & Environment, University of Dhaka, Bangladesh (2016)
+
+                        <p>4. BS	Geography & Environment, University of Dhaka, Bangladesh (2014)
+Minors: Geology, Botany and Soil Science
+
+
+
+<h4>APPOINTMENTS</h4>
+</p>    1. (2016 - Now)       Graduate Teaching Asistant (GTA), Department of Geography, university of Tennessee, Knoxville
+
+
+
+</p>
+</p>    2. (Jun-Jul, 2018)       Summer Intern, East Tennessee Development District, 216 Corporate Place, Alcoa, TN 37701
+
+
+
+</p>
+
+</p>    3. (Jun, 2017)       Graduate Research Assistant, Interdisciplinary Project on Urban Flooding, funded by the Institute for a Secure and Sustainable Environment (ISSE), University of Tennessee, Designed and Produced Social Vulnerability Map for Knoxville
+
+
+
+</p>
+</p>    4. (2014 - 2015)       GIS and Cartography, Intern, International Union for Conservation of Nature (IUCN)
+
+
+</p>
+</p>    5. (2013 - 2014)       Junior GIS Consultant, Concepts and Ideas, Bangladesh
+
+</p>
+</p>    6. (2012 - 2013)       Undergraduate Research Assistant, Dhaka INNOVATE: A Joined Research  
+Program of University of Dhaka and Humboldt University Berlin
+
+
+</p>
+
+		            	
+	            	
+	            </div>
+
+
+			</div>
+
+		</div>
+		
+
+	</div>
+
+
+
+	<div id="skills" class="skillsSection section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<h2>TECHNICAL SKILLS, SOFTWARES AND PROGRAMMING LANGUAGES</h2>
+						<p>Levels of My Skills</p>
+					</div>
+
+					<div class="owl-carousel owl-theme">
+
+						<div class="skill">
+							
+							<span class="chart" data-percent="90">
+								<span class="percent">90</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>Geospatial Analysis</h4>
+							<p>Used in My Research</p>
+						</div>
+
+
+						<div class="skill">
+							
+							<span class="chart" data-percent="95">
+								<span class="percent">95</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>Classical Statistical Methods</h4>
+							<p>Used in My Research</p>
+						</div>
+
+						<div class="skill">
+							
+							<span class="chart" data-percent="80">
+								<span class="percent">80</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>Machine Learning</h4>
+							<p>Used in My Research</p>
+						</div>
+						<div class="skill">
+							
+							<span class="chart" data-percent="90">
+								<span class="percent">90</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>GIS and Mapping</h4>
+							<p>Used in My Research</p>
+						</div>
+						<div class="skill">
+							
+							<span class="chart" data-percent="40">
+								<span class="percent">40</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>Deep Learning</h4>
+							<p>Still Learning</p>
+						</div>
+
+						<div class="skill">
+							
+							<span class="chart" data-percent="50">
+								<span class="percent">67</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>SAS</h4>
+							<p>Moderate in this Language</p>
+						</div>
+						<div class="skill">
+							
+							<span class="chart" data-percent="90">
+								<span class="percent">50</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>ArcGIS</h4>
+							<p>Experienced in this Software</p>
+						</div>
+
+						<div class="skill">
+							
+							<span class="chart" data-percent="90">
+								<span class="percent">90</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>ERDAS IMAGINE</h4>
+							<p>Experienced in this Software</p>
+						</div>
+
+						<div class="skill">
+							
+							<span class="chart" data-percent="75">
+								<span class="percent">75</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>R</h4>
+							<p> ModeratelyExperienced in this Language</p>
+						</div>
+
+						<div class="skill">
+							
+							<span class="chart" data-percent="90">
+								<span class="percent">90</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>SPSS</h4>
+							<p>Experienced in this Software</p>
+						</div>
+
+						<div class="skill">
+							
+							<span class="chart" data-percent="90">
+								<span class="percent">90</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>STATA</h4>
+							<p>Experienced in this Language</p>
+						</div>
+
+						<div class="skill">
+							
+							<span class="chart" data-percent="25">
+								<span class="percent">25</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>HTML5</h4>
+							<p>Used in Developing this Website</p>
+						</div>
+
+						<div class="skill">
+							
+							<span class="chart" data-percent="25">
+								<span class="percent">65</span>
+								<canvas height="152" width="152"></canvas>
+
+								
+
+
+							</span>
+							<h4>CSS</h4>
+							<p>Used in Developing this Website</p>
+						</div>
+					    
+					</div>
+			
+		
+			
+			</div>
+
+		</div>
+		
+
+	</div>
+	<div id="About" class="section">
+		<div class="container">
+			
+		
+			<div class="row">
+
+	            <div class="col-md-5">
+	            	<img class="aboutImage" src="img/1.PNG"><img class="aboutImage" src="img/2.PNG"><img class="aboutImage" src="img/3.PNG"> 
+	            	
+	            </div>
+
+
+	            <div class="col-md-7" >
+
+	            	
+	            	<h4>PUBLICATIONS</h4>
+	            	<h4>Referred Journal Articles and Data Descriptors (7)</h4>
+
+		            	
+
+
+<p>
+##) Ishtiaque, A., Masrur, A., Rabby, Y.W., Jerin, T. and Dewan, A. (2020). Remote Sensing-Based Research for Monitoring Progress towards SDG 15 in Bangladesh: A Review, Remote Sensing, 12, 4, 691
+ </p>
+
+<p>
+##) Rabby, Y.W.  and Li, Y. (2020) Landslide Inventory (2001–2017) of Chittagong Hilly Areas, Bangladesh. Data, 2020, 5, 4
+ </p>##) Rabby, Y.W., Hossain M.B. and Hasan, M.U. (2019). Social vulnerability in the coastal region of Bangladesh: An investigation of social vulnerability index and scalar change effects, International Journal of Disaster Risk Reduction, Volume 41, December 2019, 101329 https://doi.org/10.1016/j.ijdrr.2019.101329 </p>
+ </p>##) Rabby, Y.W. and Li. Y. (2019). An Integrated Approach to Map Landslide Inventory in Chittagong Hilly Areas, Bangladesh using Google Earth® and Field Mapping, Landslides, https://doi.org/10.1007/s10346-018-1107-9 </p>
+ <p>
+##) Kutub, M.J.R., Falgunee, N., Nawfee, S.M. and Rabby, Y.W. (2017). Ship Breaking Industries and their Impacts on the Local People and Environment of Coastal Areas of Bangladesh, Human and Social Studies, Volume 6, Issue 2, 35-58, https://doi.org/10.1515/hssr-2017-0013  
+ </p>
+ </p>##) Rob, M.A., Kabir, Md. H. and Rabby, Y.W. (2015). An Assessment of Microclimatic      Variations: A Study in Dhaka City, Oriental Geographer, The Bangladesh Geographical Society, Vol. 58, No. 1&2, 2015 </p>
+ </p>##) Rabby, Y.W., Shogib, M.R.I. and Hossain, M.L. (2015). Analysis of Temperature Change in Capital city of Bangladesh, Journal of Environmental Treatment Techniques, Volume 3, Issue1, Page55-59.
+
+
+  </p>
+		            	<h4>Articles Under Review (1)</h4>
+ </p>##) Abedin, J.,** and Rabby, Y.W. and Hasan, I**. and Akhter, H**. An Investigation of the Characteristics, Causes, and Consequences of 13 June 2017 Rainfall-Triggered Landslides in Rangamati, Bangladesh, Geo-Environmental Disasters </p>
+
+		            	
+		            	<h4>Articles Under Preparation (3)</h4>
+ </p>##) Rabby, Y.W. and Li, Y. (in preparation) An Integrated Approach for Regional Scale Landslide Susceptibility Mapping: A Case Study in Chittagong Hilly Areas, Bangladesh </p>
+ </p>##) Rabby, Y.W and Ishtiaque, A. (in preparation) Assessing the Effects of Different Digital Elevation Models on Landslide Susceptibility Maps of Rangamati District, Bangladesh  </p>
+##) Rabby, Y.W.  Li, Y. and Hilafu, H. (in preparation) Applications of Machine Learning and Deep Learning Methods for Regional Scale Landslide Susceptibility Mapping: A Case Study in Chittagong Hilly Areas, Bangladesh
+
+                        <p>
+                        	<h4>Conference Paper (3)</h4>
+ </p>##) A. Z. M. Imran, M. T. Islam, A. Gafur and Y. W. Rabby, "Rain attenuation prediction analysis and contour map design over Bangladesh," 2015 18th International Conference on Computer and Information Technology (ICCIT), Dhaka, 2015, pp. 208-212. </p>
+ </p>##)Impacts on the Local People and Environment of Coastal Areas of Bangladesh, In the Proceedings of Special Conference on Coastal and Marine Environment of Bangladesh, Bangladesh Poribash Andolon and Bangladesh Environmental Network, Dhaka </p>
+ </p>##)Rabby, Y.W. and Rob, M.A. (2015). An Assessment of Microclimatic Variations: A Study in Dhaka, 9th International Conference on Urban Climate jointly with 12thSymposium on the Urban Environment, Toulouse, France</p>
+
+ 
+ 
+
+
+		            	
+	            	
+	            </div>
+
+
+			</div>
+
+		</div>
+		
+
+	
+<div id="Honors" class="section">
+		<div class="container">
+			
+		
+			<div class="row">
+	            <div class="col-md-5">
+	            	<img class="aboutImage" src="img/slide 16.jpg">  
+	             
+
+	            </div>
+
+
+	            <div class="col-md-7" >
+
+	            	
+	            	<h4>AWARDS HONORS AND STATS</h4>
+	            	
+
+<p>1.   (2019)   Penley-Thomas-Allen Fellowship, University of Tennessee, Knoxville <p>
+<p>2.   (2019)   Publication Leadership Award, Department of Geography, University of Tennessee, Knoxville <p>
+<p>3.   (2017-18) Chancellor’s Top off Award, University of Tennessee, Knoxville</p>
+<p>4.   (2017) W.K. McClure Scholarship, Centre for International Education, University of Tennessee, Knoxville</p>
+<p>5.   (2015) Dean’s Award of the Faculty of Earth and Environmental Sciences, University of Dhaka for achieving CGP more than 3.75 in BS.</p>
+<p>6.   (2015) Seraj-Majeja Trust Fund Scholarship from University of Dhaka for outstanding result in BS.</p>
+<p>7.   (2015) AQM Mohiuddin Trust Fund Scholarship from University of Dhaka for 
+outstanding result in BS.</p>
+<p>7.   (2015) Best Paper Award in 18th International Conference on Computer Information Technology (ICCTT 2015) 
+</p>
+
+     </div>
+
+
+	          
+
+                   
+ <div id="Stats" class="statSection section">
+        <div class="container">
+	        <div class="row">
+
+                <div class="col-md-3 col-sm-10" >
+                        
+                    <div class="squareItem">
+
+                        <div class="squareInnerContainer">
+                        		
+                            <div class= "squareIcon" >
+                                <i class="fas fa-book"></i>	
+                        		
+                        	</div>
+                        	<div class="squareContent">
+                        		<h2 class="counter">18</h2>
+                        		<h3> Manuscript Reviewed</h3>
+                        		
+                        	</div>
+                        
+                        </div>
+                      		
+                     
+                     </div>
+                
+                </div>
+
+
+
+
+                <div class="col-md-3 col-sm-10" >
+                        
+                    <div class="squareItem">
+
+                        <div class="squareInnerContainer">
+                        		
+                            <div class= "squareIcon" >
+                                <i class="fas fa-money-check-alt"></i>	
+                        		
+                        	</div>
+                        	<div class="squareContent">
+                        		<h2 class="counter">$23290</h2>
+                        		<h3> Research Fundings and Grants</h3>
+                        		
+                        	</div>
+                        
+                        </div>
+                      		
+                     
+                     </div>
+                
+                </div>
+
+
+
+
+                <div class="col-md-3 col-sm-10" >
+                        
+                    <div class="squareItem">
+
+                        <div class="squareInnerContainer">
+                        		
+                            <div class= "squareIcon" >
+                                <i class="fas fa-microscope"></i>	
+                        		
+                        	</div>
+                        	<div class="squareContent">
+                        		<h2 class="counter">7</h2>
+                        		<h3> Research Papers Published</h3>
+                        		
+                        	</div>
+                        
+                        </div>
+                      		
+                     
+                     </div>
+                
+                </div>
+
+
+
+                <div class="col-md-3 col-sm-10" >
+                        
+                    <div class="squareItem">
+
+                        <div class="squareInnerContainer">
+                        		
+                            <div class= "squareIcon" >
+                                <i class="fas fa-snowplow"></i>	
+                        		
+                        	</div>
+                        	<div class="squareContent">
+                        		<h2 class="counter">4</h2>
+                        		<h3> Research Projects Ongoing</h3>
+                        		
+                        	</div>
+                        
+                        </div>
+                      		
+                     
+                     </div>
+                
+                </div>
+
+
+                
+
+
+
+	        
+
+
+
+
+
+
+
+
+
+	        </div>
+
+
+
+
+
+
+			</div>
+
+		</div>
+		
+
+</div>
+	<div id="Contact" class="contactSection section">
+
+		<div class= "col-md-12 text-center">
+
+			<p class= "subHeading">Like What You See?</p>
+			<h2>I Would Love To Hear From You</h2>
+			<a href="mailTo:yrabby@vols.utk.edu" class="contactButton">GET IN TOUCH!</a>
+
+
+			</div>
+			
+		</div>
+
+		<div id="Profile and Data" class="section">
+		<div class="container">
+			
+		
+			<div class="row">
+				<div class="heading">
+					<div>
+						
+					</div>
+					<h2> PROFILE & DATA</h2>
+			
+					
+
+				</div>
+				<div>
+					
+					
+				</div>
+
+				<div class="filter">
+					<ul id="filters">
+						
+
+						<li><a href="https://www.researchgate.net/profile/Yasin_Wahid_Rabby2" class="contactButton">ResearcgGate</a>
+</li>
+						<li><a href="https://www.mdpi.com/2306-5729/5/1/4/s1" class="contactButton">Landslide Database</a></li>
+						<li><a href="https://github.com/yrabby" class="contactButton">GitHub</a></li>
+						<li><a href="https://drive.google.com/file/d/1v0-gnnDfkxocCBrRfXG6fEj1BswK2Sge/view?ths=true" class="contactButton">Curriculum Vitae</a></li>
+						<li><a href="https://www.facebook.com/yasinwahidr7" class="contactButton">Facebook</a></li>
+					
+
+
+					</ul>
+					
+
+
+				</div>
+
+				
+
+
+				</div>
+
+	<div class="copyrightSection">
+
+		<div class="col-md-20 text-center">
+			<p>&copy; Copyright Yasin Wahid Rabby 2020</p>
+
+		</div>
+		
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script src="js/countUp.js"></script>
+	<script src="js/countUp-jquery.js"></script>
+	<script src="js/jquery.superslides.min.js"></script>
+	<script src="js/jquery.easypiechart.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/typed.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	<script type="text/javascript"></script>
+
+	<script src="js/script.js" src=https://unpkg.com/isotope-layout@3.0.6/dist/isotope.pkgd.min.js></script>
+
+</body>
+</html>
